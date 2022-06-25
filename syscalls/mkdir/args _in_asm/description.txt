@@ -1,0 +1,4 @@
+Номер системного вызова mkdir 0x53
+
+rdi: const char *pathname
+rsi: umode_t mode
